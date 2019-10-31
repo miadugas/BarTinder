@@ -9,7 +9,7 @@ Sometimes drinking the same old drinks gets old, and BarTinder takes all the wor
 
 *Backend: Levi Giraud, Peter Augros*
 
-*Technology:
+Technology:
 
 *YouTube API, cocktailDB API, random Jokes API, Bulma (CSS), Google Fonts*
 
