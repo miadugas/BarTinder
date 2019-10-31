@@ -6,9 +6,13 @@ A Tinder date may stand you up, but a BarTinder date can never do that.
 Sometimes drinking the same old drinks gets old, and BarTinder takes all the work out of trying something new. Browse through new cocktails by photo, select the ones you like, watch a tutorial, and enjoy.
 
 *Frontend: Mia Dugas*
+
 *Backend: Levi Giraud, Peter Augros*
-*Technology: *
+
+*Technology:
+
 *YouTube API, cocktailDB API, random Jokes API, Bulma (CSS), Google Fonts*
+
 
 Future Developments:
 *Storage for user favorites (local storage and database storage)
