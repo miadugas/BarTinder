@@ -21,3 +21,6 @@ Future Developments:
 
 
 ![Image of BarTinder](https://github.com/miadugas/BarTinder/blob/master/assets/BT-2.png)
+
+
+![Image of BarTinder](https://github.com/miadugas/BarTinder/blob/master/assets/BT-4.png)
